@@ -5,3 +5,7 @@
 -	Identify top revenue-generating segments.
 -	Support business decisions with data-driven insights
 
+  ## Dataset Used
+  - <a href="https://github.com/amit4910/Customer_sales_Dashboard/blob/main/customer.csv">Dataset</a>
+  
+
