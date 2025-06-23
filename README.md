@@ -31,6 +31,11 @@ Analyze customer shopping data to:
 - Integrated filters and slicers for dynamic analysis, enabling stakeholders to explore data by Genders, category, age group,Shopping mall, and payment type.
 
 ## Dashboard
+![snapshot_salesdashboard](https://github.com/user-attachments/assets/d4e0213c-c8a9-4ee6-96ed-d805523a363b)
+![snapshot_sales slide2](https://github.com/user-attachments/assets/441972a3-eeb4-4172-95cd-186632363bad)
+![snapshot_sale slide3](https://github.com/user-attachments/assets/ff4aab56-d3e6-461b-bfbd-f4a4b389c0a4)
+
+
 
 
   
