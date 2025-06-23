@@ -30,5 +30,8 @@ Analyze customer shopping data to:
 
 - Integrated filters and slicers for dynamic analysis, enabling stakeholders to explore data by Genders, category, age group,Shopping mall, and payment type.
 
+## Dashboard
+
+
   
 
