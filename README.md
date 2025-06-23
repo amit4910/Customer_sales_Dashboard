@@ -42,16 +42,27 @@ Analyze customer shopping data to:
 
 ●	Preferred payment method : Cash
 
-●	Mall of istanbul has highest sales volume
+●	Mall of istanbul has highest sales volume.
 
 ## Recommendations
-●	Introduce targeted loyalty programs for young female shoppers
+●	Introduce targeted loyalty programs for young female shoppers.
 
-●	Expand clothing inventory in top-performing malls
+●	Expand clothing inventory in top-performing malls.
 
 ●	Offer limited-time promotions for underperforming categories.
 
-●	Streamline debit card payment with rewards
+●	Streamline debit card payment with rewards.
+
+## Personal Suggestion
+●	Introduce AI-driven customer segmentation for better targeting.
+
+●	Partner with top malls for exclusive deals.
+
+●	Use dynamic pricing during peak shopping hours.
+
+●	Train staff based on customer demography insights.
+
+
 
 
 
