@@ -37,8 +37,11 @@ Analyze customer shopping data to:
 
 ## Project Insight
 ●	Majority of purchases and revenue come from female customers aged 36-45.
+
 ●	Most purchased category: Clothing
+
 ●	Preferred payment method : Cash
+
 ●	Mall of istanbul has highest sales volume
 
 ## Recommendations
